@@ -7,8 +7,8 @@ const content = [
   },
   {
     id: 2,
-    title: "Goals",
-    body: "Technical and leadership roles and skills i always thrive to improve on to help desgin and write better software solutions. ",
+    title: "What I Do",
+    body: "I enjoy creating and buidling software solutions from frontend design to backend configurations and best practices. I like to code and believe people should do things that make them happy.",
     image: "illustration-your-users.svg",
   },
   // {

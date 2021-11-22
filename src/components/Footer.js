@@ -19,7 +19,6 @@ export default function Footer() {
             <ul>
               <li>About </li>
               <li>What I Do</li>
-              <li>FAQ</li>
             </ul>
 
             {/* <ul>
@@ -30,6 +29,7 @@ export default function Footer() {
             <SocialIcons />
           </Flex>
           <p>&copy; 2021 Dev Portfolio. All rights reserved</p>
+          <p>by Casmir Chukwuma</p>
         </Container>
       </StyledFooter>
     </div>
